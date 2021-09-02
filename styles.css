@@ -6,7 +6,7 @@
     --dark-grey:
         #6B7280;
     --off-white:
-    #F3F4F6;
+        #F3F4F6;
 }
 
 body {
@@ -106,35 +106,35 @@ hr {
 }
 
 /*sections*/
-.section{
+.section {
     padding: 2rem;
-    
+
 }
 
-.section h3{
+.section h3 {
     text-align: center;
 }
 
-.section-ow{
-    background-color: var(--off-white) ;
+.section-ow {
+    background-color: var(--off-white);
 }
-    
+
 /*footer*/
-.footer{
+.footer {
     background-color: var(--primary-color);
     padding: 2rem 1rem;
     text-align: center;
     border-top-right-radius: 1rem;
 }
 
-.footer-header{
+.footer-header {
     color: white;
 }
 
-.footer .link{
+.footer .link {
     color: white;
 }
 
-.footer ul{
+.footer ul {
     padding-inline-start: 0px;
 }
