@@ -30,6 +30,13 @@ hr {
     margin: auto;
 }
 
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+
 /*links*/
 .link {
     text-decoration: none;
@@ -46,6 +53,15 @@ hr {
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+}
+
+/*Project-links*/
+.link-div-margin-top{
+    margin-top: 2rem;
+}
+
+.link-margin-right{
+    margin-right:2rem;
 }
 
 /*lists*/
@@ -129,6 +145,8 @@ hr {
 
 .footer-header {
     color: white;
+    font-weight: bold;
+    font-size: larger;
 }
 
 .footer .link {
