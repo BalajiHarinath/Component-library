@@ -15,6 +15,8 @@ body {
     /* margin: 0px; */
     margin-left: 9rem;
     margin-right: 9rem;
+    display: flex;
+    flex-direction: column;
 }
 
 hr {
@@ -82,6 +84,8 @@ hr {
     color: white;
     padding: 1rem 0.5rem;
     border-bottom-left-radius: 1rem;
+    display: flex;
+    flex-direction: column;
 }
 
 .navigation .nav-brand {
