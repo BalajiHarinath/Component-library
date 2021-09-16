@@ -12,7 +12,9 @@
 body {
     font-family: 'Montserrat',
         sans-serif;
-    margin: 0px;
+    /* margin: 0px; */
+    margin-left: 9rem;
+    margin-right: 9rem;
 }
 
 hr {
@@ -132,6 +134,7 @@ hr {
 }
 
 .section-ow {
+    border-radius: 1rem;
     background-color: var(--off-white);
 }
 
